@@ -14,7 +14,7 @@
       <input name="csv_file" class="form-control" type="file" id="formFile">
     </div>
     <button class="btn btn-primary" type="submit">Import Users</button>
-    <a href="{{ asset('template/template-csv.csv') }}">Klik Disini Untuk Mendownload Template CSV</a>
+    <a href="{{ asset('template/template-csv.csv') }}">Click Here To Download CSV Template</a>
   </form>
   
 
